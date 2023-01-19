@@ -128,13 +128,14 @@ body {
     background: #265df2;
 }
 /*btn left rigth werden hier sehr kompliziert bestimmt und gestylt */
+swiper-button-next .swiper-navBtn {
+   color: transparent;
+}
 
 
 @media screen and (max-width: 48rem) {
     .slider-content {
         margin: 0 0.625rem;
     }
-    .swiper-navBtn {
-        display: none;
-    }
+  
 }
