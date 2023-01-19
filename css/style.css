@@ -17,17 +17,20 @@ body {
     max-width: 70rem;
     width: 100%;
     padding: 5.5rem;
+
+    
 }
 
 .slider-content {
-   
+    
+    padding: 2.5rem;
     margin: 0 2.5rem;
-    overflow: hidden;
-    border-radius:1.563rem ;
+    border-radius: 1.563rem ;
   
 }
 
 .card {
+    box-shadow: 10px 10px 10px;
     border-radius: 1.563rem;
     background-color: #fff;
 }
