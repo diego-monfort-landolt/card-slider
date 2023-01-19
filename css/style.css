@@ -110,7 +110,7 @@ body {
 .description {
     font-size: 0.875rem;
     color: #707070;
-    text-align: center;
+    text-align: left;
 }
 /*Hier wird der button des Karte bestimmt */
 .button {
